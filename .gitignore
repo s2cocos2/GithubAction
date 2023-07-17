@@ -222,6 +222,3 @@ gradle-app.setting
 ### Gradle Patch ###
 # Java heap dump
 *.hprof
-
-### application.yaml ###
-src/main/resources/application.yaml
